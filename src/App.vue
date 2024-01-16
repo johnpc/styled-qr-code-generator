@@ -291,7 +291,7 @@ onMounted(() => {
       <div class="vertical-border"></div>
       <a
         class="icon-button"
-        href="https://github.com/lyqht/styled-qr-code-generator"
+        href="https://github.com/johnpc/styled-qr-code-generator"
         :aria-label="t('GitHub repository for this project')"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24">

@@ -239,7 +239,7 @@ export const vueJsPreset: Preset = {
 export const defaultPreset: Preset = {
   ...defaultPresetOptions,
   name: 'Default',
-  data: 'https://github.com/lyqht',
+  data: 'https://github.com/johnpc',
   image: PLACEHOLDER_IMAGE_URL,
   dotsOptions: {
     color: '#abcbca',

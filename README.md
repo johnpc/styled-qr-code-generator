@@ -5,7 +5,7 @@
 A customizable QR code generator to create beautiful and unique QR codes.
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center; gap:8px;">
-    <a href="https://github.com/lyqht"><img width="100" src="public/presets/lyqht.svg" /></a>
+    <a href="https://github.com/johnpc"><img width="100" src="public/presets/.svg" /></a>
     <a href="https://www.padlet.com"><img width="100" src="public/presets/padlet.svg" /></a>
     <a href="https://www.uilicious.com">
     <img width="100" src="public/presets/uilicious.svg" />
